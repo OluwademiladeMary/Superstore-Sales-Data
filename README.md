@@ -1,4 +1,5 @@
-# This project aims to examine the sales and operational performance of a superstore. 
+# Superstore Dataset
+This project aims to examine the sales and operational performance of a superstore. 
 
 Analysis was carried out using a relational data model in Excel.
 

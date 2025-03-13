@@ -17,7 +17,8 @@ Results from the Superstore Sales Analysis showed the following
 -	Sales and profits peak in November and December, reflecting a seasonal increase.
 -	Sales and profit growth have been steady over the years, with a significant increase in 2017 compared to prior years.
 
-![Screenshot 2024-10-04 164425](https://github.com/user-attachments/assets/d24a12fd-a02b-46e3-895b-4da9c852dfc3)
+![image](https://github.com/user-attachments/assets/07b5f1fa-ba6f-4083-8b90-bfa589103b21)
+
 
 This interactive dashboard provides a comprehensive view of the Superstore's performance, allowing stakeholders to filter data by segment, region, year, and month for targeted analysis. The store has demonstrated strong performance, with Technology leading revenue. The Consumer segment and Standard Class shipping dominate sales and operations. Seasonal peaks in November and December suggest opportunities for extending promotions to other months and stocking more items in these months. The high profitability of Phones highlights the importance of focusing on high-margin products.
 
